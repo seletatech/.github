@@ -4,6 +4,8 @@
 
 Seleta builds AI software for equipment service and manufacturing analytics. We connect machine data, production records and business systems so teams can trace the evidence behind a decision and act on it.
 
+Seleta（择态科技）为设备服务和制造业提供 AI 软件，让工业数据成为可追溯的决策依据和行动。
+
 Our work focuses on:
 
 - **Equipment connectivity and remote service:** make machine status, alarms and service records accessible while preserving existing control and safety systems.
